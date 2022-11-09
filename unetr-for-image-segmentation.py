@@ -358,7 +358,7 @@ gc.collect()
 
 #### Creating the UNETr Model 
 
-class UNETR(nn.Module):
+class UNetr(nn.Module):
     """
     UNETR: Transformers for 3D Medical Image Segmentation <https://arxiv.org/abs/2103.10504>"
     """
